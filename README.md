@@ -14,7 +14,7 @@ The task is to add an icon on each code sample, so user can copy the code to cli
 
 # Click the image for live demo
 
-[<img src='./img.png'>](https://youssuf-bakry.github.io/excel-sheet-generator/)
+[<img src='./img.png'>](https://youssuf-bakry.github.io/technical-documentation/)
 
 ## Technologies used
 
